@@ -53,12 +53,12 @@
       },
       {
         "title": {
-          "en": "XSend a high priority message using Pushover",
+          "en": "Send a high priority message using Pushover",
           "sv": "Skicka viktigt meddelande via Pushover"
         },
         "titleFormatted": {
-          "en": "XSend [[message]] to Pushover with high priority.",
-          "sv": "Skicka texten [[message]] till Pushover med hög prioritet."
+          "en": "Send [[message]] to Pushover with high priority.",
+          "sv": "Skicka [[message]] till Pushover med hög prioritet."
         },
         "hint": {
           "en": "No hint. Sorry."
