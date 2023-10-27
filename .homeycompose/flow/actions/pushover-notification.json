@@ -4,8 +4,8 @@
 		"sv": "Skicka meddelande via Pushover"
 	},
     "titleFormatted": {
-        "en": "Send message [[message]] to Pushover.",
-        "sv": "Skicka texten [[message]] till Pushover."
+        "en": "Send [[message]] to Pushover.",
+        "sv": "Skicka [[message]] till Pushover."
       },
 
 	"hint": {
