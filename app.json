@@ -10,6 +10,7 @@
   "name": {
     "en": "Pushover Notifications"
   },
+  "brandColor": "#259ef1",
   "description": {
     "en": "Pushover Support"
   },
