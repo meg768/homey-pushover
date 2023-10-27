@@ -5,7 +5,7 @@
 	},
     "titleFormatted": {
         "en": "Send message [[message]] to Pushover.",
-        "sv": "Skicka [[message]] till Pushover."
+        "sv": "Skicka texten [[message]] till Pushover."
       },
 
 	"hint": {

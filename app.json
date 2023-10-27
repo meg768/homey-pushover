@@ -34,11 +34,11 @@
           "sv": "Skicka meddelande via Pushover"
         },
         "titleFormatted": {
-          "en": "Send [[message]] to Pushover.",
+          "en": "Send message [[message]] to Pushover.",
           "sv": "Skicka [[message]] till Pushover."
         },
         "hint": {
-          "en": "No hint"
+          "en": "No hint. Sorry."
         },
         "args": [
           {
