@@ -35,7 +35,7 @@
         },
         "titleFormatted": {
           "en": "Send message [[message]] to Pushover.",
-          "sv": "Skicka [[message]] till Pushover."
+          "sv": "Skicka texten [[message]] till Pushover."
         },
         "hint": {
           "en": "No hint. Sorry."
@@ -50,6 +50,29 @@
           }
         ],
         "id": "pushover-notification"
+      },
+      {
+        "title": {
+          "en": "Send a high priority message using Pushover",
+          "sv": "Skicka viktigt meddelande via Pushover"
+        },
+        "titleFormatted": {
+          "en": "Send [[message]] to Pushover with high priority.",
+          "sv": "Skicka texten [[message]] till Pushover med hög prioritet."
+        },
+        "hint": {
+          "en": "No hint. Sorry."
+        },
+        "args": [
+          {
+            "type": "text",
+            "name": "message",
+            "placeholder": {
+              "en": "Message"
+            }
+          }
+        ],
+        "id": "pushover-notification-priority-high"
       }
     ]
   },
